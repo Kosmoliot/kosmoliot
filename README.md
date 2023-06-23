@@ -3,9 +3,11 @@
 
 # Michail Pliuscik
 
-- ### I'm aspiring Software Engineer and I use Python to create beautiful code that is effective, readable, maintainable, and scalable.
-- ### My main goal is to improve my professional skills while recreating & redesigning projects in a wide range of technologies.
+- ### I'm a Data Engineer who is folowing his passion to become a fully fledged Data Architect.
+- ### My main goal is to learn more about data structures and improve my skills so I could apply my creativy in designing data storage mechanisms, validation processes, effective ETLs and create integrations with external sources and analytics platforms.
 - ### I like challenging position where I can effectively contribute my technical skills and help me grow as an individual and acutely gain business knowledge.
+  
+- ### In my spare time I love to go outdoors and stay active. I’m passionate about snowboarding and hiking. So if you love adventures or want to discuss news in tech or blockchain technologies let me know and maybe we can grab a cup of coffee together.
 
 <br/> 
 
