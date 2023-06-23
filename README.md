@@ -15,6 +15,11 @@
   
  - Python
  - MySQL
+ - MongoDB QL
+ - Databricks
+ - Apache Spark
+ - Apache Hadoop
+ - AWS EC2/EMR
  - HTML
  - CSS
  - Django
